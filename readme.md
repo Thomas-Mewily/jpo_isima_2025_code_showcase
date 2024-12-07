@@ -10,7 +10,7 @@ Repo git pour montrer les algorithmes suivant lors de la Journée Portes Ouverte
 - [Python](https://www.python.org/) TODO
 - [Rust](https://www.rust-lang.org/fr)
 
-L'idée est de montrer les différences entre des langages comme [Scratch](https://scratch.mit.edu/), qui fonctionnent avec des blocs de manière visuelle, à des langages de programmation écrit en ligne de code. 
+L'idée est de montrer les différences entre des langages comme [Scratch](https://scratch.mit.edu/), qui utilisent approche visuelle avec des blocs, à des langages de programmation écrits en lignes de code. 
 
 ![image](https://github.com/user-attachments/assets/948bf3aa-4ad4-4c81-9942-615add8fdd5e)
 
