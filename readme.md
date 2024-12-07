@@ -12,7 +12,7 @@ Repo git pour montrer les algorithmes suivant lors de la Journée Portes Ouverte
 
 L'idée est de montrer les différences entre des langages comme [Scratch](https://scratch.mit.edu/), qui fonctionnent avec des blocs de manière visuelle, à des langages de programmation écrit en ligne de code. 
 
-![image](https://github.com/user-attachments/assets/c98fd047-c3cd-4fdc-9de8-5eaef2aa2136)
+![image](https://github.com/user-attachments/assets/948bf3aa-4ad4-4c81-9942-615add8fdd5e)
 
 Ressources utiles :
 Décoder un code de César en ligne : <https://www.dcode.fr/chiffre-cesar>
