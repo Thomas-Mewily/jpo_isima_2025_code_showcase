@@ -12,6 +12,8 @@ Repo git pour montrer les algorithme suivant...
 
 L'idée est de montrer les différences entre des langages comme [Scratch](https://scratch.mit.edu/), qui fonctionnent avec des blocs de manière visuelle, à des langages de programmation écrit en ligne de code. 
 
+![image](https://github.com/user-attachments/assets/ff8bb439-75d5-4222-aa93-4ada094570a3)
+
 
 Ressources utiles :
 Décoder un code de César en ligne : <https://www.dcode.fr/chiffre-cesar>
