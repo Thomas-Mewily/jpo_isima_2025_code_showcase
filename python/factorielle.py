@@ -9,6 +9,7 @@ def factorielle_recursive_avec_si(n : int) -> int:
         return 1
     return n * factorielle_recursive_avec_si(n-1)
 
+
 def factorielle_iterative(n : int) -> int:
     resultat = 1
     while n != 0:
