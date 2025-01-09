@@ -32,7 +32,7 @@ pub fn code_cesar_exemple()
     println!("alphabet : {:?} len = {}", alphabet, alphabet.len());
     println!();
 
-    let message = "bonjour la jpo d'isima 2024";
+    let message = "bonjour la jpo d'isima 2025";
     let decalage = 42;
     let message_code = code_cesar(&message, decalage, &alphabet);
     let message_decode = code_cesar(&message_code, -decalage, &alphabet);
