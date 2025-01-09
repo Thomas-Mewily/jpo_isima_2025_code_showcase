@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 mod code_cesar;
 use code_cesar::*;
 
