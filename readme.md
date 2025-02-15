@@ -7,8 +7,9 @@ Repo git pour montrer les algorithmes suivant lors de la Journée Portes Ouverte
 ... écrits dans différents langages de programmation...
 
 - [Scratch](https://scratch.mit.edu/)
-- [Python](https://www.python.org/) TODO
+- [Python](https://www.python.org/) (juste factorielle...)
 - [Rust](https://www.rust-lang.org/fr)
+- [C++](https://isocpp.org/) (juste factorielle...)
 
 L'idée est de montrer les différences entre des langages comme [Scratch](https://scratch.mit.edu/), qui utilisent approche visuelle avec des blocs, à des langages de programmation écrits en lignes de code. 
 
