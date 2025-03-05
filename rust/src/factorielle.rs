@@ -26,8 +26,6 @@ pub const fn factorielle_iterative(mut n : u32) -> u32
 
 pub fn factorielle_exemple()
 {
-    let mut v = Vec::new();
-
     for i in 0..10
     {
         println!("factorielle({: >2}) = {: >7} (recursif) {: <7} (iteratif)", i, factorielle_recursive(i), factorielle_iterative(i))
