@@ -4,6 +4,9 @@ def factorielle_recursive(n : int) -> int:
         case _: return n * factorielle_recursive(n-1)
     
 
+
+
+
 def factorielle_recursive_avec_si(n : int) -> int:
     if (n == 0 or n == 1):
         return 1
